@@ -31,11 +31,7 @@ h3{
     font-size: 25px;
     padding: 0 30px;
 }
-nav{
-    background-color: #344e41;
-    padding: 5px;
 
-}
 
 
 header{
@@ -45,6 +41,11 @@ header{
     padding: 0;
 }
 
+nav{
+    background-color: #344e41;
+    padding: 5px;
+
+}
 
 
 nav li a{
@@ -55,6 +56,11 @@ nav li a{
     
 }
 
+nav li {
+    text-align: left;
+    letter-spacing: 5px;
+  }
+
 nav ul{
     display: flex;
     flex-wrap: wrap;
@@ -64,10 +70,7 @@ nav ul{
 
 }
 
-nav li {
-  text-align: left;
-    letter-spacing: 5px;
-}
+
 
 .gallery{
     margin: auto;
