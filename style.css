@@ -38,22 +38,18 @@ header{
     
     background-color: #a3b18a;
     margin: 0;
-    padding: 0;
-}
+    padding: 0;}
 
 nav{
     background-color: #344e41;
     padding: 5px;
-
 }
-
 
 nav li a{
     text-decoration: none;
     color:#dad7cd;
     padding: 0 10px;
-    font-size: 15px;
-    
+    font-size: 15px; 
 }
 
 nav li {
@@ -67,7 +63,6 @@ nav ul{
     justify-content: right;
     padding: 10px;
     list-style: none;
-
 }
 
 
